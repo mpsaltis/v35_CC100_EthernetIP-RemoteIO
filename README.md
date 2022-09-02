@@ -14,6 +14,8 @@ After exporting the configuration from Codesys, you can edit the EDS file in a t
 
 Revisioning Note : If you need to make changes, and re-import the EDS. The previous file will be overwritten unless the MajRev is changed. 
 
+Note - Sample below is for a 750-8216, but the process in the same for the CC100 
+
 ![image](https://user-images.githubusercontent.com/90796089/188169738-99852952-5b7e-4f2b-8109-9ea9c0a6357d.png)
 
 ![image](https://user-images.githubusercontent.com/90796089/188170074-0ecb48d5-cce3-40c0-835b-8f12d4dab4e2.png)
